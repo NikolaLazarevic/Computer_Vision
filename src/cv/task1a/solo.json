@@ -1,0 +1,12 @@
+{
+	"input_path" : "./data/solo/solo.jpg",
+	"output_path" : "./output/solo/",
+	"radius" : 5,
+	"levels" : 20,
+	"threshold": 10,
+	"dilation_size": 17,
+	"label_x": 280,
+	"label_y": 580,
+	"label_width": 220,
+	"label_height": 160
+}

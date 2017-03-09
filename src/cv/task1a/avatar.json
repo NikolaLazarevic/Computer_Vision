@@ -1,0 +1,12 @@
+{
+	"input_path" : "./data/avatar/avatar.jpg",
+	"output_path" : "./output/avatar/",
+	"radius" : 5,
+	"levels" : 20,
+	"threshold": 100,
+	"dilation_size": 10,
+	"label_x": 100,
+	"label_y": 650,
+	"label_width": 400,
+	"label_height": 100
+}

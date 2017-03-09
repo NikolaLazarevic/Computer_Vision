@@ -1,0 +1,17 @@
+{
+"name_image": "beach",
+"image_path": "./data/beach/",
+"output_dir": "./output/beach/",
+"delete_seams_count": 150,
+"enlarge_seams_count": 100,
+"delete_entropy_count": 50,
+"out_00_grad_mag": "./output/beach/00_out_grad_mag.png",
+"out_01_costImage": "./output/beach/01_out_costImage.png",
+"out_02_seams": "./output/beach/02_out_seams.png",
+"out_03_vertical": "./output/beach/03_out_vertical.png",
+"out_04_horizontal": "./output/beach/04_out_horizontal.png",
+"out_05_enlarge": "./output/beach/05_out_enlarged.png",
+"out_06_entropy": "./output/beach/06_out_entropy.png",
+"out_07_bonus": "./output/beach/07_out_bonus.png"
+}
+
